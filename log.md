@@ -6,4 +6,4 @@
 
 
 **Link(s) to work**
-[Day 01 - Github overview and basic about JS] - https://github.com/poojamundada0512/30-days-challenge/blob/main/Day01/index.html
+[Day 01 - Github overview and basic about JS] - https://github.com/Adesh-P/30-Days-Challange/tree/main/Day-01
