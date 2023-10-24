@@ -2,7 +2,7 @@
 
 ### Day 01: October 23, Monday
 
-**Today's Progress**: Overview about git and setting up the reposiorty, also gone through the basics of JS 
+**Today's Progress**: Overview about git and setting up the reposiorty, also gone through the basics of JS  
 
 
 **Link(s) to work**
