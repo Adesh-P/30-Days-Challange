@@ -2,8 +2,7 @@
 
 ### Day 01: October 23, Monday
 
-**Today's Progress**: Overview about git and setting up the reposiorty, also gone through the basics of JS  
-
+**Today's Progress**: Overview about github and create repository, Learn about basics of JavaScript
 
 **Link(s) to work**
-[Day 01 - Github overview and basic about JS] - https://github.com/Adesh-P/30-Days-Challange/tree/main/Day-01
+[Day 01 - Github overview and JS basics] - https://github.com/Adesh-P/30-Days-Challange/tree/main/Day-01
