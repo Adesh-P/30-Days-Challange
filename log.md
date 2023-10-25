@@ -6,3 +6,11 @@
 
 **Link(s) to work**
 [Day 01 - Github overview and JS basics] - https://github.com/Adesh-P/30-Days-Challange/tree/main/Day-01
+
+
+### Day 02: October 24, Tuesday
+
+**Today's Progress**: Learn about JavaScript data types, typeof operators, string concatination and template string, boolean and comparision operator etc.
+
+**Link(s) to work**
+[Day 01 - JS basics] - https://github.com/Adesh-P/30-Days-Challange/tree/main/Day-02
