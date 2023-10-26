@@ -14,3 +14,11 @@
 
 **Link(s) to work**
 [Day 01 - JS basics] - https://github.com/Adesh-P/30-Days-Challange/tree/main/Day-02
+
+
+### Day 03: October 25, Wednesday
+
+**Today's Progress**: Learn about JavaScript truthy falsy values, ternary operator, and or operator, if else condition and nested if else condition.
+
+**Link(s) to work**
+[Day 01 - operators & if else] - https://github.com/Adesh-P/30-Days-Challange/tree/main/Day-03
