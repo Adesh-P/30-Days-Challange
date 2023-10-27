@@ -22,3 +22,10 @@
 
 **Link(s) to work**
 [Day 01 - operators & if else] - https://github.com/Adesh-P/30-Days-Challange/tree/main/Day-03
+
+### Day 04: October 26, Thursday
+
+**Today's Progress**: Learn about JavaScript if else if else if else statement,switch statement, for loop, while loop, etc.
+
+**Link(s) to work**
+[Day 01 - if else and loop] - https://github.com/Adesh-P/30-Days-Challange/tree/main/Day-04
