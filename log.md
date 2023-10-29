@@ -29,3 +29,10 @@
 
 **Link(s) to work**
 [Day 01 - if else and loop] - https://github.com/Adesh-P/30-Days-Challange/tree/main/Day-04
+
+### Day 05: October 27, Friday
+
+**Today's Progress**: Learn about JavaScript do while loop, break and continue keyword, introduction to array, array push,pop,shift,unshift methods and premitive and reference data type.
+
+**Link(s) to work**
+[Day 01 - arrays methods and primitive and reference data type] - https://github.com/Adesh-P/30-Days-Challange/tree/main/Day-05
