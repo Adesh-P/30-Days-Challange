@@ -50,4 +50,4 @@
 **Today's Progress**: Learn about JavaScript object, dot vs bracket notation, iterate object, computed properties etc.
 
 **Link(s) to work**
-[Day 01 - JS object] - https://github.com/Adesh-P/30-Days-Challange/tree/main/Day-06
+[Day 01 - JS object] - https://github.com/Adesh-P/30-Days-Challange/tree/main/Day-07
