@@ -36,3 +36,11 @@
 
 **Link(s) to work**
 [Day 01 - arrays methods and primitive and reference data type] - https://github.com/Adesh-P/30-Days-Challange/tree/main/Day-05
+
+
+### Day 06: October 28, Saturday
+
+**Today's Progress**: Learn about JavaScript array destructing,clone and concat,and loops in arrays, etc.
+
+**Link(s) to work**
+[Day 01 - loops in arrays] - https://github.com/Adesh-P/30-Days-Challange/tree/main/Day-05
