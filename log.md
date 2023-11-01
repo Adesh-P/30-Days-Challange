@@ -59,3 +59,11 @@
 
 **Link(s) to work**
 [Day 08 - JS object, function declaration] - https://github.com/Adesh-P/30-Days-Challange/tree/main/Day-08
+
+
+### Day 09: October 31, Tuesday
+
+**Today's Progress**: Learn about JavaScript function and their examples, arrow function, function expression, hoisting ans function inside function, etc.
+
+**Link(s) to work**
+[Day 09 - JS Functions] - https://github.com/Adesh-P/30-Days-Challange/tree/main/Day-09
