@@ -58,4 +58,4 @@
 **Today's Progress**: Learn about JavaScript spread operator in array, spread operator in object, object destructuring, object inside the array, nested destructuring and function declaration etc.
 
 **Link(s) to work**
-[Day 08 - JS object, function declaration] - https://github.com/Adesh-P/30-Days-Challange/tree/main/Day-07
+[Day 08 - JS object, function declaration] - https://github.com/Adesh-P/30-Days-Challange/tree/main/Day-08
