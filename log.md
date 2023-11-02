@@ -74,4 +74,4 @@
 **Today's Progress**: Learn about JavaScript Lexical Scope, Block vs function scope, default parameter, rest parameter and parameter destructing .
 
 **Link(s) to work**
-[Day 10 - JS scope and parameters] - https://github.com/Adesh-P/30-Days-Challange/tree/main/Day-09
+[Day 10 - JS scope and parameters] - https://github.com/Adesh-P/30-Days-Challange/tree/main/Day-10
