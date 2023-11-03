@@ -73,3 +73,11 @@
 
 **Link(s) to work**
 [Day 10 - JS scope and parameters] - https://github.com/Adesh-P/30-Days-Challange/tree/main/Day-10
+
+
+### Day 11: November 02, Thursday
+
+**Today's Progress**: Learn about JavaScript callback function, function returning function, Important array methods-forEach, map and filter, etc.
+
+**Link(s) to work**
+[Day 11 - JS callback function and array methods] - https://github.com/Adesh-P/30-Days-Challange/tree/main/Day-11
