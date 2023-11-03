@@ -14,3 +14,14 @@ function myFunction(){
 const ans = myFunction();
 // console.log(ans);         // print childfunction
 ans();
+
+
+// ***
+
+function myFunction1(){
+    return function(){
+        return "Trushant"
+    }
+}
+const ans1 = myFunction1();
+console.log(ans1());
