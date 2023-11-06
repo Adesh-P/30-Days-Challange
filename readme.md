@@ -89,3 +89,11 @@
 
 **Link(s) to work**
 [Day 12 - JS array methods] - https://github.com/Adesh-P/30-Days-Challange/tree/main/Day-12
+
+
+### Day 13: November 04, Saturday
+
+**Today's Progress**: Learn about JavaScript iterables,set,maps,optional chaining and clone using object.assign, etc.
+
+**Link(s) to work**
+[Day 13 - JS set maps] - https://github.com/Adesh-P/30-Days-Challange/tree/main/Day-13
