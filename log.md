@@ -91,4 +91,4 @@
 **Today's Progress**: Learn about JavaScript sort,every,fill,find,reduce,some and splice methods etc.
 
 **Link(s) to work**
-[Day 12 - JS array methods] - https://github.com/Adesh-P/30-Days-Challange/tree/main/Day-11
+[Day 12 - JS array methods] - https://github.com/Adesh-P/30-Days-Challange/tree/main/Day-12
