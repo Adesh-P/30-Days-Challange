@@ -97,3 +97,11 @@
 
 **Link(s) to work**
 [Day 13 - JS set maps] - https://github.com/Adesh-P/30-Days-Challange/tree/main/Day-13
+
+
+### Day 14: November 06, Monday
+
+**Today's Progress**: Learn about JavaScript call,apply,bind mehod, arrow function and function create object, etc.
+
+**Link(s) to work**
+[Day 14 - JS methods and function create object] - https://github.com/Adesh-P/30-Days-Challange/tree/main/Day-14
